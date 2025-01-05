@@ -150,14 +150,12 @@ This project was developed by Ch312 C3uZ (also known as Christiano Cruz), an Ame
 
 For more information or to get in touch, visit:
 
-GitHub: github.com/Ch312-C3uZ
-Website: ch312c3uz.dev
+GitHub: github.com/H4ckD4d
+
 License
 This project is open-source and licensed under the MIT License. Contributions are welcome!
 
 
-
-This version includes the author's name and background, making it more personal and professional. Let me know if you'd like further modifications!
 
 
 
